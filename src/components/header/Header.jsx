@@ -12,7 +12,7 @@ const Header = () => {
                 Hello I'm
             </h5>
             <h1>Abhishek Kumar Singh</h1>
-            <h5 className='text-light'>FullStack Developer</h5>
+            <h5 className='text-light'>FullStack Developer | Android Developer</h5>
             <CTA/>
             <a href='#contact' className='scroll__down'>Scroll Down</a>
            
