@@ -12,8 +12,9 @@ function App() {
     <Header/>
     <Nav/>
     <About/>
-    <Contact/>
     <Experience/>
+    <Contact/>
+    
     </>
   );
 }

@@ -5,7 +5,7 @@ import './header.css'
 const CTA = () => {
   return (
     <div className='cta'>
-        <a href={CV} download className='btn'>Download</a>
+        <a href={CV} download className='btn'>Download CV</a>
         <a href='#contact' className='btn btn-primary'>Lets talk</a>
         </div>
   )
